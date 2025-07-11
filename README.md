@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hattake89
-- 👀 I’m interested in coding and project management
-- 🌱 I’m currently learning PHP and .Net
-- 💞️ I’m looking to collaborate on Ruby
+- 👀 I’m interested in coding and system administrator
+- 🌱 I’m currently learning AngularJs and Docker
 - 📫 How to reach me aahmadhatta@gmail.com
 
 <!---
